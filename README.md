@@ -1,25 +1,61 @@
-# AkenoDownloader
-A clean and ad-free YouTube video downloader and audio converter.
+<h1 align="center">🎵 AkenoDownloader</h1>
 
-No limitations. No large files. Just simple, high-quality downloads.
+<p align="center">
+  <img src="https://github.com/SenpaiRato/AkenoDownloader/assets/banner.png" alt="AkenoDownloader Banner" width="600"/>
+</p>
 
-<img width="686" height="678" alt="image" src="https://github.com/user-attachments/assets/bc79c0ec-774b-4ef2-91da-2bff1e3f08ff" />
+<p align="center">
+  <b>Clean, fast, and cross-platform YouTube downloader & converter — built for users who value simplicity and control.</b>
+</p>
 
+<p align="center">
+  <a href="https://github.com/SenpaiRato/AkenoDownloader/releases">
+    <img src="https://img.shields.io/github/v/release/SenpaiRato/AkenoDownloader?color=6aa6f8&style=for-the-badge" alt="Release">
+  </a>
+  <a href="https://github.com/SenpaiRato/AkenoDownloader/issues">
+    <img src="https://img.shields.io/github/issues/SenpaiRato/AkenoDownloader?color=fcba03&style=for-the-badge" alt="Issues">
+  </a>
+  <a href="https://github.com/SenpaiRato/AkenoDownloader/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/SenpaiRato/AkenoDownloader?color=00c853&style=for-the-badge" alt="License">
+  </a>
+</p>
 
+---
 
-✳️ Step-by-step setup
-1: Export your cookies as Netscape using a reliable extension like "https://cookie-editor.com".
+## ✨ Overview
 
-2: Save the extracted data into a cookies.txt file.
+**AkenoDownloader** is a lightweight, privacy-respecting downloader designed to fetch and convert YouTube content with ease.  
+It focuses on speed, simplicity, and full transparency — all open source, no telemetry, no ads.
 
-3: The program is ready to run.
+---
 
-🔒 Privacy note:
+## 🚀 Features
 
-To work securely with YouTube, this tool requires your browser's cookies (exported as cookies.txt). This is a common method used with yt-dlp to bypass speed limits and access age-restricted or region-locked content.
+| Feature | Description |
+|----------|-------------|
+| 🎧 **Audio & Video Download** | Fetch videos or extract audio from YouTube and playlists. |
+| 🔄 **Format Conversion** | Convert files to MP3, MP4, WAV, and more. |
+| 🧠 **Smart Parsing** | Automatically detects available resolutions and bitrates. |
+| 🧰 **Cookie Support** | Access age-restricted or private videos using cookies.txt. |
+| 💎 **Cross-Platform** | Works seamlessly on Windows, macOS, and Linux. |
+| ⚡ **Fast Performance** | Minimal resource usage and optimized I/O. |
 
-⏫For maximum security:
+---
 
-Use a secondary browser profile, or sign in with a disposable Google account.
+## 🧩 Requirements & Step-by-step setup
 
-Your credentials are never sent to any servers - everything runs locally on your device.
+> ⚠️ **Note:** AkenoDownloader does **not** require Python or other runtimes to be installed by the user (unless you are running from source). The only required preparation is exporting browser cookies so the tool can access private/age-restricted content if needed.
+
+**✳️ Step-by-step setup**
+1. Export your cookies as Netscape using a reliable extension like "https://cookie-editor.com".  
+2. Save the extracted data into a `cookies.txt` file.  
+3. The program is ready to run.
+
+---
+
+## 📦 Installation
+
+```bash
+# Clone the repository (optional if you download a release)
+git clone https://github.com/SenpaiRato/AkenoDownloader.git
+cd AkenoDownloader
