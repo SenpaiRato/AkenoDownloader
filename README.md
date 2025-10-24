@@ -76,35 +76,37 @@ AkenoDownloader uses the following Python libraries and modules:
 
 ## 🧠 FAQ
 
-**Question:** Is AkenoDownloader safe to use?
+<div style="background-color:#1e1e2f; padding:12px; border-radius:8px; color:white; margin-bottom:10px;">
+<b>❓ Question:</b> Is AkenoDownloader safe to use?<br>
+<b>✅ Answer:</b> Yes. AkenoDownloader is open source and does not contain malware or ads. Some antivirus programs may flag it because of the way it accesses videos and system resources, but these are false positives.
+</div>
 
-**Answer:** Yes. AkenoDownloader is open source and does not contain malware or ads. Some antivirus programs may flag it because of the way it accesses videos and system resources, but these are false positives.
+<div style="background-color:#1e1e2f; padding:12px; border-radius:8px; color:white; margin-bottom:10px;">
+<b>❓ Question:</b> Do I need to install Python or any other software?<br>
+<b>✅ Answer:</b> No. If you use the published executable, it will run independently.
+</div>
 
-**Question:** Do I need to install Python or any other software?
-
-**Answer:** No. If you use the published executable, it will run independently.
-
-**Question:** Why do I need cookies.txt?
-
-**Answer:** Cookies allow the program to bypass Are you a robot restrictions.
-
-**Question:** Which platforms are supported?
-
-**Answer:** Windows 10 and up
-
-**Question:** What video/audio formats can I download?
-
-**Answer:** MP4 and MP3 are supported by default.
-
-**Question:** My download is slow or failing - what should I do?
-
-**Answer:** Proxy functionality is enabled for you. If you are using a VPN that enables proxy, you can enable this item from within the app to delegate downloads to the proxy.
-
-**Question:** How can I contribute or report bugs?
-
-**Answer:** You can submit issues on GitHub. (Updates are slow because it's not my main job.)
-
-<div style="background-color:#1e1e2f; padding:10px; border-radius:8px; color:white;">
+<div style="background-color:#1e1e2f; padding:12px; border-radius:8px; color:white; margin-bottom:10px;">
 <b>❓ Question:</b> Why do I need cookies.txt?<br>
-<b>✅ Answer:</b> Cookies allow the program to bypass "Are you a robot?" restrictions.
+<b>✅ Answer:</b> Cookies allow the program to bypass Are you a robot restrictions.
+</div>
+
+<div style="background-color:#1e1e2f; padding:12px; border-radius:8px; color:white; margin-bottom:10px;">
+<b>❓ Question:</b> Which platforms are supported?<br>
+<b>✅ Answer:</b> Windows 10 and up
+</div>
+
+<div style="background-color:#1e1e2f; padding:12px; border-radius:8px; color:white; margin-bottom:10px;">
+<b>❓ Question:</b> What video/audio formats can I download?<br>
+<b>✅ Answer:</b> MP4 and MP3 are supported by default.
+</div>
+
+<div style="background-color:#1e1e2f; padding:12px; border-radius:8px; color:white; margin-bottom:10px;">
+<b>❓ Question:</b> My download is slow or failing - what should I do?<br>
+<b>✅ Answer:</b> Proxy functionality is enabled for you. If you are using a VPN that enables proxy, you can enable this item from within the app to delegate downloads to the proxy.
+</div>
+
+<div style="background-color:#1e1e2f; padding:12px; border-radius:8px; color:white; margin-bottom:10px;">
+<b>❓ Question:</b> How can I contribute or report bugs?<br>
+<b>✅ Answer:</b> You can submit issues on GitHub. (Updates are slow because it's not my main job.)
 </div>
