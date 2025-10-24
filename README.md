@@ -77,24 +77,29 @@ AkenoDownloader uses the following Python libraries and modules:
 ## 🧠 FAQ
 
 **Question:** Is AkenoDownloader safe to use?
+
 **Answer:** Yes. AkenoDownloader is open source and does not contain malware or ads. Some antivirus programs may flag it because of the way it accesses videos and system resources, but these are false positives.
 
 **Question:** Do I need to install Python or any other software?
+
 **Answer:** No. If you use the published executable, it will run independently.
 
 **Question:** Why do I need cookies.txt?
-**Question:** Cookies allow the program to bypass Are you a robot restrictions.
+
+**Answer:** Cookies allow the program to bypass Are you a robot restrictions.
 
 **Question:** Which platforms are supported?
-**Question:** Windows 10 and up
 
-**Q:** What video/audio formats can I download?
+**Answer:** Windows 10 and up
+
+**Question:** What video/audio formats can I download?
+
 **Answer:** MP4 and MP3 are supported by default.
 
-**Q:** My download is slow or failing - what should I do?
+**Question:** My download is slow or failing - what should I do?
 
-**Q:** Proxy functionality is enabled for you. If you are using a VPN that enables proxy, you can enable this item from within the app to delegate downloads to the proxy.
+**Answer:** Proxy functionality is enabled for you. If you are using a VPN that enables proxy, you can enable this item from within the app to delegate downloads to the proxy.
 
-**Q:** How can I contribute or report bugs?
+**Question:** How can I contribute or report bugs?
 
-**Q:** You can submit issues on GitHub. (Updates are slow because it's not my main job.)
+**Answer:** You can submit issues on GitHub. (Updates are slow because it's not my main job.)
