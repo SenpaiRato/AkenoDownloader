@@ -1,2 +1,5 @@
 # AkenoDownloader
-A video downloader and even a music converter from YouTube without ads, without restrictions, with simple options - that's it. BUT it only needs cookies to run (if you're afraid, do it with another browser and an unimportant account)
+A simple, ad-free YouTube video downloader and audio converter.
+No restrictions, no bloat—just clean downloads.
+
+🔒 Note: To bypass YouTube’s rate limits, the tool uses your browser cookies (exported as a cookies.txt file). For privacy, you can use a secondary browser profile or a throwaway account. 
