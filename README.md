@@ -48,7 +48,7 @@ It focuses on speed, simplicity, and full transparency — all open source, no t
 
 
 **✳️ Step-by-step setup**
-1. Export your cookies as Netscape using a reliable extension like "https://cookie-editor.com"(🌍All browsers work).  
+1. Export your cookies as Netscape using a reliable extension like "https://cookie-editor.com" (🌍All browsers work).  
 2. Save the extracted data into a `cookies.txt` file.  
 3. The program is ready to run.
 
