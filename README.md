@@ -43,7 +43,7 @@ It focuses on speed, simplicity, and full transparency — all open source, no t
 
 ## 🧩 Requirements & Step-by-step setup
 
-> ⚠️ **Note:** AkenoDownloader does not require the user to install Python or other runtime programs (unless you run it from source).
+> ⚠️ **Note:** > ⚠️ **Note:** AkenoDownloader does not require the user to install Python or other runtime programs (unless you run it from source, which requires the Libraries / Dependencies section and only the ffmpeg.exe file along with the repository code for proper execution).
 
 
 
