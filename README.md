@@ -103,3 +103,8 @@ AkenoDownloader uses the following Python libraries and modules:
 **Question:** How can I contribute or report bugs?
 
 **Answer:** You can submit issues on GitHub. (Updates are slow because it's not my main job.)
+
+<div style="background-color:#1e1e2f; padding:10px; border-radius:8px; color:white;">
+<b>❓ Question:</b> Why do I need cookies.txt?<br>
+<b>✅ Answer:</b> Cookies allow the program to bypass "Are you a robot?" restrictions.
+</div>
