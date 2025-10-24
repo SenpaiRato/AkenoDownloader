@@ -34,24 +34,24 @@ It focuses on speed, simplicity, and full transparency — all open source, no t
 
 | Feature | Description |
 |----------|-------------|
-| 🎧 **Audio & Video Download** | Fetch videos or extract audio from YouTube and playlists. |
-| 🔄 **Format Conversion** | Convert files to MP3, MP4, WAV, and more. |
+| 🎧 **Audio & Video Download** | Fetch videos or extract audio from YouTube. |
+| 🔄 **Format Conversion** | Convert files to MP3, MP4. |
 | 🧠 **Smart Parsing** | Automatically detects available resolutions and bitrates. |
-| 🧰 **Cookie Support** | Access age-restricted or private videos using cookies.txt. |
-| 💎 **Cross-Platform** | Works seamlessly on Windows, macOS, and Linux. |
 | ⚡ **Fast Performance** | Minimal resource usage and optimized I/O. |
 
 ---
 
 ## 🧩 Requirements & Step-by-step setup
 
-> ⚠️ **Note:** AkenoDownloader does **not** require Python or other runtimes to be installed by the user (unless you are running from source). The only required preparation is exporting browser cookies so the tool can access private/age-restricted content if needed.
+> ⚠️ **Note:** AkenoDownloader does not require the user to install Python or other runtime programs (unless you run it from source).
+
+
 
 **✳️ Step-by-step setup**
 1. Export your cookies as Netscape using a reliable extension like "https://cookie-editor.com".  
 2. Save the extracted data into a `cookies.txt` file.  
 3. The program is ready to run.
-
+**🛑Important:** If the program does not work, the problem is that the cookies have expired. Extract the cookies from scratch and replace the information in the cookies.txt file. ##Don't give your cookies to anyone.
 ---
 
 ## 📦 Installation
