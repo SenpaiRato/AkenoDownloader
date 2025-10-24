@@ -54,9 +54,20 @@ It focuses on speed, simplicity, and full transparency — all open source, no t
 **🛑Important:** If the program does not work, the problem is that the cookies have expired. Extract the cookies from scratch and replace the information in the cookies.txt file. ##Don't give your cookies to anyone.
 ---
 
-## 📦 Installation
+## 🧰 Libraries / Dependencies ( It is not needed for those who downloaded the release version )
 
-```bash
-# Clone the repository (optional if you download a release)
-git clone https://github.com/SenpaiRato/AkenoDownloader.git
-cd AkenoDownloader
+AkenoDownloader uses the following Python libraries and modules:
+
+| Library | Purpose |
+|---------|---------|
+| `customtkinter` | Modern styled GUI components |
+| `tkinter` | Standard Python GUI framework |
+| `messagebox` (from `tkinter`) | Display popup dialogs |
+| `yt_dlp` | Download and extract videos/audio from YouTube |
+| `PIL` (Python Imaging Library) | Handling images, logos, and icons |
+| `os` | File system operations |
+| `re` | Regular expressions for text parsing |
+| `threading` | Multi-threading support |
+| `sys` | System-specific parameters and functions |
+| `json` | Parse and write JSON configuration files |
+| `typing` | Type hinting for better code clarity |
