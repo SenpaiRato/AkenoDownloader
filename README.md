@@ -3,7 +3,8 @@ A clean and ad-free YouTube video downloader and audio converter.
 
 No limitations. No large files. Just simple, high-quality downloads.
 
-<img width="697" height="674" alt="image" src="https://github.com/user-attachments/assets/2bae4177-c62c-4d4c-8f61-50a38f189737" />
+<img width="686" height="678" alt="image" src="https://github.com/user-attachments/assets/bc79c0ec-774b-4ef2-91da-2bff1e3f08ff" />
+
 
 
 ✳️ Step-by-step setup
