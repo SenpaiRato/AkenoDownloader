@@ -1,7 +1,8 @@
 <h1 align="center">🎵 AkenoDownloader</h1>
 
 <p align="center">
-  <img src="https://github.com/SenpaiRato/AkenoDownloader/assets/banner.png" alt="AkenoDownloader Banner" width="600"/>
+  <img width="686" height="678" alt="image" src="https://github.com/user-attachments/assets/712cd69d-0980-4f68-98a4-3a2237990ae4" />
+
 </p>
 
 <p align="center">
