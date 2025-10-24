@@ -81,20 +81,24 @@ AkenoDownloader uses the following Python libraries and modules:
 <b>✅ Answer:</b> Yes. AkenoDownloader is open source and does not contain malware or ads. Some antivirus programs may flag it because of the way it accesses videos and system resources, but these are false positives.
 </div>
 
+
 <div style="background-color:#1e1e2f; padding:12px; border-radius:8px; color:white; margin-bottom:10px;">
 <b>❓ Question:</b> Do I need to install Python or any other software?<br>
 <b>✅ Answer:</b> No. If you use the published executable, it will run independently.
 </div>
+
 
 <div style="background-color:#1e1e2f; padding:12px; border-radius:8px; color:white; margin-bottom:10px;">
 <b>❓ Question:</b> Why do I need cookies.txt?<br>
 <b>✅ Answer:</b> Cookies allow the program to bypass Are you a robot restrictions.
 </div>
 
+
 <div style="background-color:#1e1e2f; padding:12px; border-radius:8px; color:white; margin-bottom:10px;">
 <b>❓ Question:</b> Which platforms are supported?<br>
 <b>✅ Answer:</b> Windows 10 and up
 </div>
+
 
 <div style="background-color:#1e1e2f; padding:12px; border-radius:8px; color:white; margin-bottom:10px;">
 <b>❓ Question:</b> What video/audio formats can I download?<br>
@@ -105,6 +109,7 @@ AkenoDownloader uses the following Python libraries and modules:
 <b>❓ Question:</b> My download is slow or failing - what should I do?<br>
 <b>✅ Answer:</b> Proxy functionality is enabled for you. If you are using a VPN that enables proxy, you can enable this item from within the app to delegate downloads to the proxy.
 </div>
+
 
 <div style="background-color:#1e1e2f; padding:12px; border-radius:8px; color:white; margin-bottom:10px;">
 <b>❓ Question:</b> How can I contribute or report bugs?<br>
