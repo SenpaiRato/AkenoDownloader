@@ -107,5 +107,5 @@ AkenoDownloader uses the following Python libraries and modules:
 ---
 
 **❓ Question:** How can I contribute or report bugs?  
-**✅ Answer:** You can submit issues on GitHub. (Updates are slow because it's not my main job.)
+**✅ Answer:** You can submit issues on GitHub. (Updates are slow because it's not my main job).
 
