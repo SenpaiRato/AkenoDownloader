@@ -34,8 +34,7 @@ It focuses on speed, simplicity, and full transparency — all open source, no t
 
 | Feature | Description |
 |----------|-------------|
-| 🎧 **Audio & Video Download** | Fetch videos or extract audio from YouTube. |
-| 🔄 **Format Conversion** | Convert files to MP3, MP4. |
+| 🎧 **Video Download** | Fetch videos or extract audio from YouTube. |
 | 🧠 **Smart Parsing** | Automatically detects available resolutions and bitrates. |
 | ⚡ **Fast Performance** | Minimal resource usage and optimized I/O. |
 
@@ -96,16 +95,16 @@ AkenoDownloader uses the following Python libraries and modules:
 
 ---
 
-**❓ Question:** What video/audio formats can I download?  
-**✅ Answer:** MP4 and MP3 are supported by default.
+**❓ Question:** What video formats can I download?  
+**✅ Answer:** MP4 supported by default.
 
 ---
 
 **❓ Question:** My download is slow or failing - what should I do?  
-**✅ Answer:** Proxy functionality is enabled for you. If you are using a VPN that enables proxy, you can enable this item from within the app to delegate downloads to the proxy.
+**✅ Answer:** Proxy feature is enabled for you. It will use automatically.
 
 ---
 
 **❓ Question:** How can I contribute or report bugs?  
-**✅ Answer:** You can submit issues on GitHub. (Updates are slow because it's not my main job).
+**✅ Answer:** You can submit issues on GitHub (Updates are slow because it's not my main job).
 
